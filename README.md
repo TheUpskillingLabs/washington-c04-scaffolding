@@ -87,9 +87,16 @@ Survey responses count as evidence of what people felt. Count them and quote the
 
 **Nov 7:** the pod reads its finds together and writes its first paradox from the evidence.
 
-## Join
+## Contribute
 
-Comment on the pinned issue, or open an issue with what you know. If you join as a builder in residence, you become a maintainer.
+You don't need to code, and you don't need to be an expert. If you're part of The Labs, or you know something about this problem, you can help. The maintainers, who are this pod's builders in residence, will get you started.
+
+1. Introduce yourself on the pinned issue: what you know, and what you'd like to look into.
+2. A maintainer adds you to the repo and points you to one thing to find out: an interview, a case study, or a record.
+3. Log what you find as a `dig` issue, as above.
+4. Changes to this README go through a pull request, and a maintainer reviews them.
+
+New to GitHub? Say so on the pinned issue and a maintainer will walk you through it. Join as a builder in residence and you become a maintainer.
 
 ## Projects
 
