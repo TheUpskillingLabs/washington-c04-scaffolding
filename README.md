@@ -36,6 +36,28 @@ Everything we learn is written into this repo, in the open.
 | Nov 14 | Candidate frames, and what players said about them |
 | Dec 8 | Shipped |
 
+## Archaeology (now through Nov 7)
+
+Before we frame anything, we dig. Archaeology is finding out how this problem came to be: what has been tried, by whom, what happened, and what people believed at the time. We are looking for what we don't know yet, not confirming what we think.
+
+**How to dig**
+
+1. Pick one place to look from the list below.
+2. Open an issue labeled `dig` for each find.
+3. In every issue, write: *what it is, where you found it, the date, who was involved, and what it tells us about the paradox.*
+4. Say plainly when something is hearsay, and who could confirm it.
+
+Survey responses count as evidence of what people felt. Count them and quote them.
+
+**Where to dig first**
+
+- **Our own history.** What structure did the pilot and Cycles C01 to C03 each use? What changed between them, and why? Ask the facilitators who ran them.
+- **The rules we already follow.** Where did "get stuck first" come from? What happened when a mentor stepped in early, or late?
+- **Tension 01 in the survey.** Read the responses on guidance vs. autonomy. Count them, then quote them.
+- **Elsewhere.** How do other programs decide how much structure to give, and when to take it away? Look at apprenticeships, Cooperative Extension, and bootcamps that closed.
+
+**Nov 7:** each pod reads its own finds together and writes up the paradox again, with what it now knows. Then candidate frames, due Nov 14.
+
 ## Join
 
 Comment on the pinned issue, or open an issue with what you know. If you join as a builder in residence, you become a maintainer.
