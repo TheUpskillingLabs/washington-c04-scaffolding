@@ -38,14 +38,25 @@ This pod works through frame innovation (Kees Dorst). We don't start with soluti
 
 Everything we learn is written into this repo.
 
-| Date | What |
-|---|---|
-| Oct 24 | Pod formed at sensemaking day (intuition pass) |
-| Now to Nov 7 | Research: archaeology, then the first real paradox |
-| Nov 14 | Candidate frames, and what players said about them |
-| Dec 8 | Shipped |
+## The plan to Dec 8
 
-## The research (now through Nov 7)
+Six weeks. Budget **4 to 6 hours a week of your own time** per builder in residence, not counting what your coding agent does while you're away. Contributors: 2 to 4 hours. If a week needs more than that, cut scope, not sleep.
+
+| Week | Dates | What's due | Your hours |
+|---|---|---|---|
+| 1 | Oct 26 to Nov 1 | Pod stands up: builders named in this README, pinned join issue, `dig` label, a weekly meeting time. Each builder: OLOS running locally with your agent, one trivial change on a branch. One interview done and logged. **Sat Nov 1: the pod posts "three things that surprised us."** | 1 setup · 1 pod meeting · 2 interview and log · 1 post |
+| 2 | Nov 2 to 7 | Each builder: one more interview, one case or record, logged. **Sat Nov 7: pod reads every `dig` together and writes its first paradox from the evidence,** in this README. | 3 research · 2 synthesis session |
+| 3 | Nov 8 to 14 | Each builder drafts one frame and builds a rough prototype of it with their agent (a day's work for the agent, two hours for you). **Sat Nov 14: frames shown to real players. Builders pitch; contributors choose a project.** Project branches created. | 2 frame and prototype · 1 pod review · 2 pitch day |
+| 4 | Nov 15 to 21 | Build. Project README on its branch: the frame, the team, how to run it. **First release to a preview URL. Three real people use it.** | 4 to 6 build and review |
+| 5 | Nov 22 to 28 | Short week (Thanksgiving). **Second release.** Change what the three people's use told you. Field interviews finish. | 3 build · 1 user conversations |
+| 6 | Nov 29 to Dec 5 | **Third release, into the shared instance.** Written account drafted on the branch: what we tested, what happened, what next. **Name who maintains it in January.** | 3 build · 2 write |
+| 7 | Dec 6 to 8 | Freeze. Prepare the teach-back. **Tue Dec 8: ship. Working, in real use, written up, taught back.** | 2 |
+
+A project is **one thing a real person at The Labs uses**, built on the Cycle's instance of OLOS. Not an app from scratch. Fifteen hours of your time and a coding agent will build one real feature well, not a product.
+
+**Weekly rhythm:** one pod hour together, the rest solo with your agent. Commit every week, even if it's notes. Each builder's agent reads the OLOS `CLAUDE.md` before writing code.
+
+## The research (weeks 1 and 2)
 
 We are not solving this yet. We are finding out how it came to be called a problem, by whom, and what everyone has assumed since. We look for what we don't know, not for confirmation of what we think.
 
