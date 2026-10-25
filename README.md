@@ -102,7 +102,7 @@ New to GitHub? Say so on the pinned issue and a maintainer will walk you through
 
 ## Projects
 
-Projects come out of the research. Each builder in residence leads one, chooses the frame it tests, and recruits a team of contributors. A project lives on its own branch of this repo, named after this repo plus the project, `washington-c04-scaffolding-projectname`, with no hyphens inside the project name (for example, `washington-c04-scaffolding-mentorbench`). Each branch has its own README: the frame, the team, how to run it. `main` holds the pod's shared research.
+Projects come out of the research. Each builder in residence leads one, chooses the frame it tests, and recruits a team of contributors. Projects are built on the Cycle's instance of OLOS, the Labs' open-source platform, so the code lives in the OLOS repo on a branch named after this repo plus the project, `washington-c04-scaffolding-projectname`, with no hyphens inside the project name (for example, `washington-c04-scaffolding-mentorbench`). This repo carries a branch of the same name holding the project's README: the frame it tests, the team, what happened. `main` holds the pod's shared research.
 
 By Dec 8, each project is a working app in real use, with a written account of what it tested and what happened.
 
