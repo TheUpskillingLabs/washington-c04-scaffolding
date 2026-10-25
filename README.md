@@ -91,20 +91,24 @@ Survey responses count as evidence of what people felt. Count them and quote the
 
 You don't need to code, and you don't need to be an expert. If you're part of The Labs, or you know something about this problem, you can help. The maintainers, who are this pod's builders in residence, will get you started.
 
+Right now, the pod is researching together. After Nov 14, each builder in residence leads a project and recruits a team. You can join the research now and a project later, or both.
+
 1. Introduce yourself on the pinned issue: what you know, and what you'd like to look into.
 2. A maintainer adds you to the repo and points you to one thing to find out: an interview, a case study, or a record.
 3. Log what you find as a `dig` issue, as above.
 4. Changes to this README go through a pull request, and a maintainer reviews them.
 
-New to GitHub? Say so on the pinned issue and a maintainer will walk you through it. Join as a builder in residence and you become a maintainer. Each pod has three to five.
+New to GitHub? Say so on the pinned issue and a maintainer will walk you through it.
 
 ## Projects
 
-Projects come out of the research. Each one is a branch of this repo, named after this repo plus the project, `washington-c04-scaffolding-projectname`, with no hyphens inside the project name (for example, `washington-c04-scaffolding-mentorbench`). `main` holds the research.
+Projects come out of the research. Each builder in residence leads one, chooses the frame it tests, and recruits a team of contributors. A project lives on its own branch of this repo, named after this repo plus the project, `washington-c04-scaffolding-projectname`, with no hyphens inside the project name (for example, `washington-c04-scaffolding-mentorbench`). Each branch has its own README: the frame, the team, how to run it. `main` holds the pod's shared research.
+
+By Dec 8, each project is a working app in real use, with a written account of what it tested and what happened.
 
 ## Maintainers
 
-This pod's builders in residence: three to five of them.
+This pod's builders in residence: three to five of them. Each leads one project.
 
 <!-- Builders in residence: add your GitHub handle. -->
 
