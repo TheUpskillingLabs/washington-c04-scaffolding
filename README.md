@@ -27,14 +27,19 @@ We own what happens in the room. How progress is seen from outside is [Wayfindin
 
 ## How we research
 
-This pod works through frame innovation (Kees Dorst). We don't start with solutions. We start with how the problem came to be, and why it's hard.
+This pod works through frame innovation (Kees Dorst, *Frame Innovation*, 2015). The problem is The Labs itself: how it teaches, how it's seen, where it lives, how it pays its way. We don't start with solutions, and we don't start from what OLOS can do today. We start with how the problem came to be, and why it's hard. Dorst's nine steps, and where they fall in this Cycle:
 
-1. **Archaeology.** The history of the problem's owners and of how it was first stated. What's been tried. What everyone assumes.
-2. **Paradox.** Why is this hard? Which things are both true and pull against each other? Written from evidence, not from hunches.
-3. **Context and field.** The people closest to it, and the wider world around it.
-4. **Themes.** What shows up across them.
-5. **Frames.** New ways of seeing the problem that make the paradox easier to move.
-6. **Experiments.** Small tests of a frame with real people.
+| Step | What it asks | When |
+|---|---|---|
+| 1. Archaeology | How did this come to be called a problem, by whom, in what words? What's been tried? What's assumed? | Weeks 1 and 2 |
+| 2. Paradox | Why is it hard? Which things are both true and pull against each other? | Nov 7 |
+| 3. Context | Who is closest to it at The Labs, and what does each of them need? | Weeks 1 and 2 |
+| 4. Field | Who else, anywhere, faces something like this? What do they do? | Weeks 1 to 5 |
+| 5. Themes | What shows up across all of them? | Nov 7 |
+| 6. Frames | A new way of seeing the problem that makes the paradox easier to move | Week 3 |
+| 7. Futures | Does the frame hold? Show it to players and see whether they lean in | Nov 14 |
+| 8. Transformation | Change how The Labs works, built on OLOS, released weekly to real people | Weeks 4 to 6 |
+| 9. Integration | The change becomes part of how The Labs runs, with someone to keep it | Dec 8 |
 
 Everything we learn is written into this repo.
 
@@ -42,23 +47,25 @@ Everything we learn is written into this repo.
 
 Six weeks. Budget **4 to 6 hours a week of your own time** per builder in residence, not counting what your coding agent does while you're away. Contributors: 2 to 4 hours. If a week needs more than that, cut scope, not sleep.
 
-| Week | Dates | What's due | Your hours |
-|---|---|---|---|
-| 1 | Oct 26 to Nov 1 | Pod stands up: builders named in this README, pinned join issue, `dig` label, a weekly meeting time. Each builder: OLOS running locally with your agent, one trivial change on a branch. One interview done and logged. **Sat Nov 1: the pod posts "three things that surprised us."** | 1 setup · 1 pod meeting · 2 interview and log · 1 post |
-| 2 | Nov 2 to 7 | Each builder: one more interview, one case or record, logged. **Sat Nov 7: pod reads every `dig` together and writes its first paradox from the evidence,** in this README. | 3 research · 2 synthesis session |
-| 3 | Nov 8 to 14 | Each builder drafts one frame and builds a rough prototype of it with their agent (a day's work for the agent, two hours for you). **Sat Nov 14: frames shown to real players. Builders pitch; contributors choose a project.** Project branches created. | 2 frame and prototype · 1 pod review · 2 pitch day |
-| 4 | Nov 15 to 21 | Build. Project README on its branch: the frame, the team, how to run it. **First release to a preview URL. Three real people use it.** | 4 to 6 build and review |
-| 5 | Nov 22 to 28 | Short week (Thanksgiving). **Second release.** Change what the three people's use told you. Field interviews finish. | 3 build · 1 user conversations |
-| 6 | Nov 29 to Dec 5 | **Third release, into the shared instance.** Written account drafted on the branch: what we tested, what happened, what next. **Name who maintains it in January.** | 3 build · 2 write |
-| 7 | Dec 6 to 8 | Freeze. Prepare the teach-back. **Tue Dec 8: ship. Working, in real use, written up, taught back.** | 2 |
+| Week | Dates | Dorst steps | What's due | Your hours |
+|---|---|---|---|---|
+| 1 | Oct 26 to Nov 1 | Archaeology, Context | Pod stands up: builders named in this README, pinned join issue, `dig` label, a weekly meeting time. Each builder: OLOS running locally with your agent, one trivial change on a branch. One interview done and logged. **Sat Nov 1: the pod posts "three things that surprised us."** | 1 setup · 1 pod meeting · 2 interview and log · 1 post |
+| 2 | Nov 2 to 7 | Archaeology, Context, Field | Each builder: one more interview, one case or record, logged. **Sat Nov 7: pod reads every `dig` together, names the themes, and writes its first paradox from the evidence,** in this README. | 3 research · 2 synthesis session |
+| 3 | Nov 8 to 14 | Frames, Futures | Each builder drafts one frame and builds a rough prototype of it with their agent (a day's work for the agent, two hours for you). **Sat Nov 14: frames shown to real players. Builders pitch; contributors choose a project.** Project branches created. | 2 frame and prototype · 1 pod review · 2 pitch day |
+| 4 | Nov 15 to 21 | Transformation | Build. Project README on its branch: the frame, the change it makes to how The Labs works, the team, how to run it. **First release to a preview URL. Three real people use it.** | 4 to 6 build and review |
+| 5 | Nov 22 to 28 | Transformation, Field | Short week (Thanksgiving). **Second release.** Change what the three people's use told you. Field interviews finish. | 3 build · 1 user conversations |
+| 6 | Nov 29 to Dec 5 | Transformation | **Third release, into the shared instance.** Written account drafted on the branch: the paradox, the frame, what we tested, what happened, what next. **Name who maintains it in January.** | 3 build · 2 write |
+| 7 | Dec 6 to 8 | Integration | Freeze. Prepare the teach-back. **Tue Dec 8: ship. Working, in real use, written up, taught back, and worth sending upstream to OLOS.** | 2 |
 
-A project is **one thing a real person at The Labs uses**, built on the Cycle's instance of OLOS. Not an app from scratch. Fifteen hours of your time and a coding agent will build one real feature well, not a product.
+A project is **a change to how The Labs works, that a real person at The Labs uses**, instantiated on the Cycle's instance of OLOS. The frame decides what it is: a new practice, a role, a path, a way of seeing progress, a way money moves. OLOS is where it lives, and it may add what OLOS doesn't have yet. Fifteen hours of your time and a coding agent will build one such change well, not a product.
 
 **Weekly rhythm:** one pod hour together, the rest solo with your agent. Commit every week, even if it's notes. Each builder's agent reads the OLOS `CLAUDE.md` before writing code.
 
 ## The research (weeks 1 and 2)
 
 We are not solving this yet. We are finding out how it came to be called a problem, by whom, and what everyone has assumed since. We look for what we don't know, not for confirmation of what we think.
+
+The system we're researching is the whole of The Labs: upskillers, mentors, workshop leaders, facilitators, builders, the library, the steering committee, the Board, funders, employers, the region. Not the app. Map who's in it (Dorst's *context*), then look outward to who else faces this (*field*).
 
 Three questions:
 
