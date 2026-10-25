@@ -2,11 +2,11 @@
 
 **Starting question:** How much structure does a learner need, when, and from whom?
 
-*A first guess, written on sensemaking day. The dig may change it.*
+*A first guess, written on sensemaking day. The research may change it.*
 
-## The problem situation
+## Where we started
 
-We have a problem situation, not yet a problem. We don't know why it's hard. That's the paradox, and we find it after the dig.
+Sensemaking day was the intuition pass. We went looking for the paradox, and what the pod wrote down are hunches about where it is. This is the problem situation as the pod first described it:
 
 From the October 3 retreat, tension 01: **guidance vs. autonomy.** It drew more survey responses than any other.
 
@@ -30,24 +30,24 @@ We own what happens in the room. How progress is seen from outside is [Wayfindin
 This pod works through frame innovation (Kees Dorst). We don't start with solutions. We start with how the problem came to be, and why it's hard.
 
 1. **Archaeology.** The history of the problem's owners and of how it was first stated. What's been tried. What everyone assumes.
-2. **Paradox.** Why is this hard? Which things are both true and pull against each other? Written after the dig, not before.
+2. **Paradox.** Why is this hard? Which things are both true and pull against each other? Written from evidence, not from hunches.
 3. **Context and field.** The people closest to it, and the wider world around it.
 4. **Themes.** What shows up across them.
 5. **Frames.** New ways of seeing the problem that make the paradox easier to move.
 6. **Experiments.** Small tests of a frame with real people.
 
-Everything we learn is written into this repo, in the open.
+Everything we learn is written into this repo.
 
 | Date | What |
 |---|---|
-| Oct 24 | Pod formed at sensemaking day |
-| Now to Nov 7 | Archaeology |
+| Oct 24 | Pod formed at sensemaking day (intuition pass) |
+| Now to Nov 7 | Research: archaeology, then the first real paradox |
 | Nov 14 | Candidate frames, and what players said about them |
 | Dec 8 | Shipped |
 
-## Archaeology (now through Nov 7)
+## The research (now through Nov 7)
 
-Before we frame anything, we dig. We are not solving this yet. We are finding out how it came to be called a problem, by whom, in what words, and what everyone has assumed since. We look for what we don't know, not for confirmation of what we think.
+We are not solving this yet. We are finding out how it came to be called a problem, by whom, and what everyone has assumed since. We look for what we don't know, not for confirmation of what we think.
 
 Three questions:
 
@@ -55,24 +55,37 @@ Three questions:
 2. **What has been tried, and what happened?**
 3. **What is being treated as fixed?** What's actually negotiable?
 
-**How to dig**
+How the tension was worded, including any "How Might We", is something to dig into, not proof of the problem.
 
-1. Pick one place to look from the list below.
-2. Open an issue labeled `dig` for each find.
-3. In every issue, write: *what it is, where you found it, the date, who was involved, which of the three questions it answers, and what it tells us about the situation.*
-4. Say plainly when something is hearsay, and who could confirm it.
+**Three ways to find out**
 
-How the tension was worded, including any "How Might We", is something to dig into, not proof of the problem. Survey responses count as evidence of what people felt. Count them and quote them.
+**Interviews.** Talk to people who have lived this. Ask about a specific time, not opinions in general: *Tell me about the last time this went wrong. What happened? What did you try? What did you assume? Who else should I talk to?* Aim for a handful per pod, from different sides of the problem.
 
-**Where to dig first**
+- Upskillers who stalled or left, and ones who thrived. What did they need, and when?
+- Mentors, workshop leaders and facilitators from the pilot and Cycles C01 to C03. What did they change between Cycles, and why?
+- Whoever first raised tension 01 at the Oct 3 retreat. What did they see, and what did they want fixed?
 
-- **How tension 01 was first stated.** Who raised it at the Oct 3 retreat, in what words, and what did they want fixed?
-- **Our own history.** What structure did the pilot and Cycles C01 to C03 each use? What changed between them, and why? Ask the facilitators who ran them.
-- **The rules we already follow.** Where did "get stuck first" come from? What happened when a mentor stepped in early, or late?
-- **Tension 01 in the survey.** Read the responses on guidance vs. autonomy. Count them, then quote them.
-- **Elsewhere.** How do other programs decide how much structure to give, and when to take it away? Look at apprenticeships, Cooperative Extension, and bootcamps that closed.
+**Case studies.** Find someone else who has faced something like this. Write down who they are, what they were trying to do, what they tried, what happened, and what we can't tell from outside.
 
-**Nov 7:** the pod reads its finds together and writes its first real paradox, with what it now knows.
+- Programs that give structure and then take it away: apprenticeships, Cooperative Extension, self-directed programs like the Recurse Center, bootcamps that closed. What did they decide, and what happened?
+
+**Records.** What we already have.
+
+- The run of show for each past Cycle, and every change to it.
+- Where "get stuck first" came from, and what happened when it was followed or broken.
+- The survey responses on guidance vs. autonomy. Count them, then quote them.
+
+Survey responses count as evidence of what people felt. Count them and quote them.
+
+**How to log it**
+
+1. Open an issue labeled `dig`. Start the title with `Interview:`, `Case:` or `Record:`.
+2. Write: *what it is, where it came from, the date, which of the three questions it answers, and what it tells us.*
+3. Say plainly when something is hearsay, and who could confirm it.
+
+**Keep people out of the repo.** No names, no recordings, no transcripts, nothing that identifies someone. Write "a former mentor," not who. Keep your raw notes yourself.
+
+**Nov 7:** the pod reads its finds together and writes its first paradox from the evidence.
 
 ## Join
 
