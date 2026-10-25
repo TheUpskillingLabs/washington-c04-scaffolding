@@ -104,7 +104,11 @@ Projects come out of the research. Each one is a branch of this repo, named afte
 
 ## Maintainers
 
-<!-- Add your GitHub handle. -->
+<!-- Builders in residence: add your GitHub handle. -->
+
+## Contributors
+
+<!-- Maintainers: add contributors here as they join. They are credited here, as the license asks. -->
 
 ---
 
