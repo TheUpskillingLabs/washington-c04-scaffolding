@@ -96,13 +96,15 @@ You don't need to code, and you don't need to be an expert. If you're part of Th
 3. Log what you find as a `dig` issue, as above.
 4. Changes to this README go through a pull request, and a maintainer reviews them.
 
-New to GitHub? Say so on the pinned issue and a maintainer will walk you through it. Join as a builder in residence and you become a maintainer.
+New to GitHub? Say so on the pinned issue and a maintainer will walk you through it. Join as a builder in residence and you become a maintainer. Each pod has three to five.
 
 ## Projects
 
 Projects come out of the research. Each one is a branch of this repo, named after this repo plus the project, `washington-c04-scaffolding-projectname`, with no hyphens inside the project name (for example, `washington-c04-scaffolding-mentorbench`). `main` holds the research.
 
 ## Maintainers
+
+This pod's builders in residence: three to five of them.
 
 <!-- Builders in residence: add your GitHub handle. -->
 
