@@ -31,7 +31,7 @@ The Upskilling Labs of Greater Washington is building OLOS for itself. The regio
 
 Every project in this pod is one of those changes, and one of those pull requests.
 
-The region isn't one lab. The Upskilling Labs of Greater Washington is an association of local labs: neighborhood labs, mostly in library branches, each running its own workshops, trainings and project nights, with the Cycle run once across the whole region. Today there's one. The instance has to work for many, so when you frame and build, ask how it holds up when a second lab opens across the river.
+Today the region is one lab. Over time, the idea is that The Upskilling Labs of Greater Washington becomes an association of local labs: neighborhood labs, mostly in library branches, each running its own workshops, trainings and project nights, with the Cycle run once across the whole region. That's a direction, not a structure that exists. Hold it loosely, but when you frame and build, it's fair to ask how your change would hold up if a second lab opened across the river.
 
 
 Three names that get mixed up:
