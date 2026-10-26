@@ -4,7 +4,7 @@
 
 ## What this is
 
-This is one of four Research Pods in **Build Cycle C04**, run by The Upskilling Labs of Greater Washington. A Build Cycle is six weeks in which a group of neighbors picks a hard problem, researches it properly, and builds something real in response. This Cycle, for the first time, the problem is The Labs itself. This pod took one piece of it: the question above.
+This is one of three Research Pods in **Build Cycle C04**, run by The Upskilling Labs of Greater Washington. A Build Cycle is six weeks in which a group of neighbors picks a hard problem, researches it properly, and builds something real in response. This Cycle, for the first time, the problem is The Labs itself. This pod took one piece of it: the question above.
 
 We use **frame creation**, a research method from designer Kees Dorst (*Frame Innovation*, 2015). The idea is simple. Hard problems stay hard because everyone is looking at them the same way. If you study the problem carefully, you find a **paradox**: two things that are both true and pull against each other. Then you look for a **frame**: a new way of seeing the problem that makes the paradox easier to move. Only then do you build.
 
