@@ -25,6 +25,12 @@ Upskillers · mentors · workshop leaders · facilitators
 
 We own what happens in the room. How progress is seen from outside is [Wayfinding](https://github.com/TheUpskillingLabs/washington-c04-wayfinding). We read each other's repos every week.
 
+## Why this is on OLOS
+
+The Upskilling Labs of Greater Washington is building OLOS for itself. The region runs its own instance, the first one outside the national core, and changes it to fit how the region actually works. Whatever holds up goes back to core OLOS as a series of pull requests, so the next region starts from what Washington learned. That's the relationship: the region builds and proves, the core keeps and carries.
+
+Every project in this pod is one of those changes, and one of those pull requests.
+
 ## How we research
 
 This pod works through frame innovation (Kees Dorst, *Frame Innovation*, 2015). The problem is The Labs itself: how it teaches, how it's seen, where it lives, how it pays its way. We don't start with solutions, and we don't start from what OLOS can do today. We start with how the problem came to be, and why it's hard. Dorst's nine steps, and where they fall in this Cycle:
@@ -39,7 +45,7 @@ This pod works through frame innovation (Kees Dorst, *Frame Innovation*, 2015). 
 | 6. Frames | A new way of seeing the problem that makes the paradox easier to move | Week 3 |
 | 7. Futures | Does the frame hold? Show it to players and see whether they lean in | Nov 14 |
 | 8. Transformation | Change how The Labs works, built on OLOS, released weekly to real people | Weeks 4 to 6 |
-| 9. Integration | The change becomes part of how The Labs runs, with someone to keep it | Dec 8 |
+| 9. Integration | The change becomes part of how the region runs, with someone to keep it, and goes upstream to core OLOS | Dec 8 |
 
 Everything we learn is written into this repo.
 
@@ -55,9 +61,9 @@ Six weeks. Budget **4 to 6 hours a week of your own time** per builder in reside
 | 4 | Nov 15 to 21 | Transformation | Build. Project README on its branch: the frame, the change it makes to how The Labs works, the team, how to run it. **First release to a preview URL. Three real people use it.** | 4 to 6 build and review |
 | 5 | Nov 22 to 28 | Transformation, Field | Short week (Thanksgiving). **Second release.** Change what the three people's use told you. Field interviews finish. | 3 build · 1 user conversations |
 | 6 | Nov 29 to Dec 5 | Transformation | **Third release, into the shared instance.** Written account drafted on the branch: the paradox, the frame, what we tested, what happened, what next. **Name who maintains it in January.** | 3 build · 2 write |
-| 7 | Dec 6 to 8 | Integration | Freeze. Prepare the teach-back. **Tue Dec 8: ship. Working, in real use, written up, taught back, and worth sending upstream to OLOS.** | 2 |
+| 7 | Dec 6 to 8 | Integration | Freeze. Prepare the teach-back. **Tue Dec 8: ship. Working, in real use in the region, written up, taught back, and opened as a pull request to core OLOS.** | 2 |
 
-A project is **a change to how The Labs works, that a real person at The Labs uses**, instantiated on the Cycle's instance of OLOS. The frame decides what it is: a new practice, a role, a path, a way of seeing progress, a way money moves. OLOS is where it lives, and it may add what OLOS doesn't have yet. Fifteen hours of your time and a coding agent will build one such change well, not a product.
+A project is **a change to how The Labs works, that a real person at The Labs uses**, built on Greater Washington's instance of OLOS and sent upstream to core as a pull request. The frame decides what it is: a new practice, a role, a path, a way of seeing progress, a way money moves. OLOS is where it lives, and it may add what OLOS doesn't have yet. Fifteen hours of your time and a coding agent will build one such change well, not a product.
 
 **Weekly rhythm:** one pod hour together, the rest solo with your agent. Commit every week, even if it's notes. Each builder's agent reads the OLOS `CLAUDE.md` before writing code.
 
@@ -120,7 +126,7 @@ New to GitHub? Say so on the pinned issue and a maintainer will walk you through
 
 ## Projects
 
-Projects come out of the research. Each builder in residence leads one, chooses the frame it tests, and recruits a team of contributors. Projects are built on the Cycle's instance of OLOS, the Labs' open-source platform, so the code lives in the OLOS repo on a branch named after this repo plus the project, `washington-c04-scaffolding-projectname`, with no hyphens inside the project name (for example, `washington-c04-scaffolding-mentorbench`). This repo carries a branch of the same name holding the project's README: the frame it tests, the team, what happened. `main` holds the pod's shared research.
+Projects come out of the research. Each builder in residence leads one, chooses the frame it tests, and recruits a team of contributors. Projects are built on Greater Washington's instance of OLOS, the Labs' open-source platform, so the code lives in the region's OLOS fork on a branch named after this repo plus the project, `washington-c04-scaffolding-projectname`, with no hyphens inside the project name (for example, `washington-c04-scaffolding-mentorbench`). This repo carries a branch of the same name holding the project's README: the frame it tests, the team, what happened. `main` holds the pod's shared research.
 
 By Dec 8, each project is a working app in real use, with a written account of what it tested and what happened.
 
