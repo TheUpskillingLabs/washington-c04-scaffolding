@@ -25,17 +25,19 @@ The Upskilling Labs of Greater Washington is building OLOS, the Labs' open-sourc
 
 ## The nine steps, and when
 
-| Step | What it asks | When |
-|---|---|---|
-| 1. Archaeology | How did this become a problem, who has tried to solve it, anywhere, and what happened? What does everyone assume? | Now to Nov 7 |
-| 2. Paradox | Why is it hard? Which two things are both true and pull against each other? | Nov 7 |
-| 3. Context | Who is closest to it at The Labs, and what does each need? | Now to Nov 7 |
-| 4. Field | Who else, anywhere, faces something like this? What do they do? | Now to Nov 28 |
-| 5. Themes | What shows up across all of them? | Nov 7 |
-| 6. Frames | A new way of seeing the problem that makes the paradox easier to move | Nov 8 to 14 |
-| 7. Futures | What does the frame make possible for each player? Show them. Do they want it? | Nov 14 |
-| 8. Transformation | Change how The Labs works, built on OLOS, released weekly to real people | Nov 15 to Dec 5 |
-| 9. Integration | The change becomes part of how the region runs, someone keeps it, and it goes upstream | Dec 8 |
+Dorst's nine steps of frame creation, in his words (Dorst & Kokotovich, 2015), and how this pod runs each one.
+
+| Step | Dorst | Here | When |
+|---|---|---|---|
+| 1. Archaeology | "Analyzing the history of the problem owner and of the initial problem formulation." | Who first called this a problem, in what words. What's been tried, anywhere. What everyone assumes. | Now to Nov 7 |
+| 2. Paradox | "Analyzing the problem situation: what makes this hard?" | Written from what archaeology found, not from Saturday's hunches. | Nov 7 |
+| 3. Context | "Analyzing the inner circle of stakeholders." | The people closest to this at The Labs, and what each needs. | Now to Nov 7 |
+| 4. Field | "Exploring the broader societal field." | Who else, anywhere, faces something like this, and what they do. | Now to Nov 28 |
+| 5. Themes | "Investigating the themes that emerge in the broader field." | What shows up across everyone we talked to and read. | Nov 7 |
+| 6. Frames | "Identifying patterns in the themes to create frames." | Each builder in residence proposes one frame and a rough prototype of it. | Nov 8 to 14 |
+| 7. Futures | "Exploring the possible outcomes and value propositions for the various stakeholders." | Frames shown to real players. Builders pitch; contributors choose. | Nov 14 |
+| 8. Transformation | "Investigate the change in stakeholders' strategies and practices required for implementation." | Build the change on the region's OLOS instance. Release weekly to real people and change it from what they do. | Nov 15 to Dec 5 |
+| 9. Integration | "Draw lessons from the new approach and identify new opportunities within the network." | In use in the region, someone keeps it, written up, taught back, pull request to core OLOS. | Dec 8 |
 
 Budget 4 to 6 hours of your own time a week, not counting your coding agent. If a week needs more, cut scope.
 
