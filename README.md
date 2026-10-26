@@ -39,7 +39,7 @@ The Upskilling Labs of Greater Washington is building OLOS, the Labs' open-sourc
 
 Budget 4 to 6 hours of your own time a week, not counting your coding agent. If a week needs more, cut scope.
 
-## Archaeology: where to dig
+## Archaeology: where to look
 
 Not just our attempts. Anyone, anywhere, who has tried to solve this.
 
@@ -48,7 +48,7 @@ Not just our attempts. Anyone, anywhere, who has tried to solve this.
 - Who raised tension 01 at the Oct 3 retreat, in what words, and what they wanted fixed.
 - The survey responses on guidance vs. autonomy. Count them, quote them.
 
-Talk to one person, or dig up one attempt. Open an issue for each thing you find: what it is, where it came from, when, and what it tells us. Say when something is hearsay. **No names, recordings or transcripts in this repo.** Keep raw notes yourself.
+Talk to one person, or find one attempt. Open an issue for each thing you find: what it is, where it came from, when, and what it tells us. Say when something is hearsay. **No names, recordings or transcripts in this repo.** Keep raw notes yourself.
 
 ## Join
 
