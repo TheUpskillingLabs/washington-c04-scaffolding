@@ -31,6 +31,15 @@ The Upskilling Labs of Greater Washington is building OLOS for itself. The regio
 
 Every project in this pod is one of those changes, and one of those pull requests.
 
+Three names that get mixed up:
+
+- **OLOS** is the idea and the open-source project: an operating system for an open lab. How a community runs cycles, workshops, pods, projects and membership, in code anyone can run and change. It belongs to no single lab.
+- **The Upskilling App** is the national core's live instance of OLOS at theupskillinglabs.org. It's the reference implementation, and it holds what's been built so far: a few years of one lab's needs, not the whole idea.
+- **Greater Washington's instance** is the region's own copy, built from the same code, changed to fit the region. What we build here is for us first, and for OLOS second.
+
+When you research, research The Labs, not the app. When you build, build on OLOS, not around the app's limits.
+
+
 ## How we research
 
 This pod works through frame innovation (Kees Dorst, *Frame Innovation*, 2015). The problem is The Labs itself: how it teaches, how it's seen, where it lives, how it pays its way. We don't start with solutions, and we don't start from what OLOS can do today. We start with how the problem came to be, and why it's hard. Dorst's nine steps, and where they fall in this Cycle:
