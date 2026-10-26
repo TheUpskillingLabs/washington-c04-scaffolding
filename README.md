@@ -31,6 +31,9 @@ The Upskilling Labs of Greater Washington is building OLOS for itself. The regio
 
 Every project in this pod is one of those changes, and one of those pull requests.
 
+The region isn't one lab. The Upskilling Labs of Greater Washington is an association of local labs: neighborhood labs, mostly in library branches, each running its own workshops, trainings and project nights, with the Cycle run once across the whole region. Today there's one. The instance has to work for many, so when you frame and build, ask how it holds up when a second lab opens across the river.
+
+
 Three names that get mixed up:
 
 - **OLOS** is the idea and the open-source project: an operating system for an open lab. How a community runs cycles, workshops, pods, projects and membership, in code anyone can run and change. It belongs to no single lab.
@@ -80,7 +83,7 @@ A project is **a change to how The Labs works, that a real person at The Labs us
 
 We are not solving this yet. We are finding out how it came to be called a problem, by whom, and what everyone has assumed since. We look for what we don't know, not for confirmation of what we think.
 
-The system we're researching is the whole of The Labs: upskillers, mentors, workshop leaders, facilitators, builders, the library, the steering committee, the Board, funders, employers, the region. Not the app. Map who's in it (Dorst's *context*), then look outward to who else faces this (*field*).
+The system we're researching is the whole of The Labs: upskillers, mentors, workshop leaders, facilitators, builders, the local labs and the libraries that host them, the regional association and its steering committee, the national Board, funders, employers. Not the app. Map who's in it (Dorst's *context*), then look outward to who else faces this (*field*).
 
 Three questions:
 
