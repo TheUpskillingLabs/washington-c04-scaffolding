@@ -35,12 +35,12 @@ Dorst's steps in his words (Dorst & Kokotovich, 2015), and what this pod does fo
 
 | Step | Dorst | Here | When |
 |---|---|---|---|
-| 1. Archaeology | "Analyzing the history of the problem owner and of the initial problem formulation." | Who first called this a problem, in what words. What's been tried, anywhere. What everyone assumes. | Now to Nov 7 |
-| 2. Paradox | "Analyzing the problem situation: what makes this hard?" | Written from what archaeology found, not from Saturday's hunches. | Nov 7 |
-| 3. Context | "Analyzing the inner circle of stakeholders." | The people closest to this at The Labs, and what each needs. | Now to Nov 7 |
-| 4. Field | "Exploring the broader societal field." | Who else, anywhere, faces something like this, and what they do. | Now to Nov 28 |
-| 5. Themes | "Investigating the themes that emerge in the broader field." | What shows up across everyone we talked to and read. | Nov 7 |
-| 6. Frames | "Identifying patterns in the themes to create frames." | Each builder in residence proposes one frame and a rough prototype. | Nov 8 to 14 |
+| 1. Archaeology | "Analyzing the history of the problem owner and of the initial problem formulation." | Who first called this a problem, in what words, and what they wanted. What's been tried, here and anywhere, and how it went. What's treated as non-negotiable, listed so we can question it. | Now to Nov 7 |
+| 2. Paradox | "Analyzing the problem situation: what makes this hard?" | Written as *because* statements: *X needs A, because… Y needs B, because… Both are true.* From the evidence, not Saturday's hunches. Then **set aside**. Frames come from the themes, not from staring at the paradox. | Nov 7 |
+| 3. Context | "Analyzing the inner circle of stakeholders." | Two circles. Inner: who affects this problem today. Outer: who would have to be part of any solution. What each has tried, and how each sees it. | Now to Nov 7 |
+| 4. Field | "Exploring the broader societal field." | Everyone around this problem who isn't in the room: libraries, employers, funders, agencies, universities, the next cohort. Their values, their pressures, how they decide. Not just who they are: what they're after. | Now to Nov 28 |
+| 5. Themes | "Investigating the themes that emerge in the broader field." | The deeper motivations that keep showing up across players: what people are really trying to get, in their words. Themes are human, not technical. | Nov 7 |
+| 6. Frames | "Identifying patterns in the themes to create frames." | Each builder in residence proposes one frame, written as *If we treat this problem as if it were a problem of [theme], then…*, with a rough prototype. | Nov 8 to 14 |
 | 7. Futures | "Exploring the possible outcomes and value propositions for the various stakeholders." | Frames shown to real people. Builders pitch; contributors choose a project. | Nov 14 |
 | 8. Transformation | "Investigate the change in stakeholders' strategies and practices required for implementation." | Build the change on the region's OLOS. Release weekly to real people. Change it from what they do. | Nov 15 to Dec 5 |
 | 9. Integration | "Draw lessons from the new approach and identify new opportunities within the network." | In use, someone keeps it, written up, taught back, pull request to OLOS. | Dec 8 |
@@ -53,7 +53,7 @@ Archaeology means finding out how this became a problem and what has already bee
 
 | Kind | What it is | What it must include |
 |---|---|---|
-| **Interview** | A conversation with one person who has lived this problem, here or elsewhere. Ask about a specific time: *Tell me about the last time this went wrong. What happened? What did you try? What did you assume? Who else should I talk to?* | Their role (not their name), when you spoke, what they said in their words, what it tells us |
+| **Interview** | A conversation with one person who has lived this problem, here or elsewhere. Two kinds of questions. **History:** *Tell me about the last time this went wrong. What happened? What did you try? What did you assume? Who else should I talk to?* **Motivation:** *What would a good year here look like for you? Why does that matter? And why does that matter?* Keep asking why. The history feeds archaeology. The motivation feeds themes. | Their role (not their name), when you spoke, what they said in their words, what they're after, what it tells us |
 | **Case study** | One organization or program, anywhere, that tried to solve something like this | Who they are, what they tried, what happened, how we know, what we can't tell from outside |
 | **Record** | Something that already exists: a document, a dataset, a past decision, a survey count | What it is, where it lives, when it's from, what it says |
 
@@ -82,8 +82,8 @@ One GitHub issue per piece of evidence. Title it `Interview:`, `Case:` or `Recor
 | Date | What | Who |
 |---|---|---|
 | **Sat Nov 1** | One interview logged per builder in residence. The pod posts one issue titled "What surprised us": three things. | Builders |
-| **Sat Nov 7** | At least two interviews and one case or record per builder, logged. The pod meets, reads everything, names the themes, and writes the paradox into this README. | Pod |
-| **Sat Nov 14** | Each builder: one frame, written in one sentence, with a rough prototype. Pitched to the room. Contributors choose a project. | Builders |
+| **Sat Nov 7** | At least two interviews and one case or record per builder, logged. The pod meets, reads everything, sorts the inner and outer circles, names three to five themes, and writes the paradox into this README as *because* statements. Then sets the paradox aside. | Pod |
+| **Sat Nov 14** | Each builder: one frame, in the form *If we treat this as if it were a problem of [theme], then…*, with a rough prototype. Pitched to the room. Check it against the paradox. Contributors choose a project. | Builders |
 | **Nov 21, 28, Dec 5** | A release each week to a preview link, used by at least three real people. | Project teams |
 | **Tue Dec 8** | Working, in real use, written up on the project branch, taught back to the room, pull request opened to OLOS. | Project teams |
 
