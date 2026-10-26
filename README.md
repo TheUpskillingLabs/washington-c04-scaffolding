@@ -35,9 +35,9 @@ Dorst's steps in his words (Dorst & Kokotovich, 2015), and what this pod does fo
 
 | Step | Dorst | Here | When |
 |---|---|---|---|
-| 1. Archaeology | "Analyzing the history of the problem owner and of the initial problem formulation." | Who first called this a problem, in what words, and what they wanted. What's been tried, here and anywhere, and how it went. What's treated as non-negotiable, listed so we can question it. | Now to Nov 6 |
+| 1. Archaeology | "Analyzing the history of the problem owner and of the initial problem formulation." | Who first called this a problem, in what words, and what they wanted. What's been tried, here and anywhere, and how it went. What's treated as non-negotiable, listed so we can question it. | Now to Nov 7 |
 | 2. Paradox | "Analyzing the problem situation: what makes this hard?" | Written as *because* statements: *X needs A, because… Y needs B, because… Both are true.* From the evidence, not Saturday's hunches. Then **set aside**. Frames come from the themes, not from staring at the paradox. | Nov 7 |
-| 3. Context | "Analyzing the inner circle of stakeholders." | Two circles. Inner: who affects this problem today. Outer: who would have to be part of any solution. What each has tried, and how each sees it. | Now to Nov 6 |
+| 3. Context | "Analyzing the inner circle of stakeholders." | Two circles. Inner: who affects this problem today. Outer: who would have to be part of any solution. What each has tried, and how each sees it. | Now to Nov 7 |
 | 4. Field | "Exploring the broader societal field." | Everyone around this problem who isn't in the room: libraries, employers, funders, agencies, universities, the next cohort. Their values, their pressures, how they decide. Not just who they are: what they're after. | Now to Nov 13 |
 | 5. Themes | "Investigating the themes that emerge in the broader field." | The deeper motivations that keep showing up across players: what people are really trying to get, in their words. Themes are human, not technical. | Nov 7 |
 | 6. Frames | "Identifying patterns in the themes to create frames." | Each builder in residence proposes one frame, written as *If we treat this problem as if it were a problem of [theme], then…*, Ideated on Nov 7, from the themes. | Nov 7 |
@@ -47,7 +47,11 @@ Dorst's steps in his words (Dorst & Kokotovich, 2015), and what this pod does fo
 
 Budget **4 to 6 hours of your own time a week**, not counting what your coding agent does. If a week needs more, cut scope.
 
-## What we're collecting now (archaeology, due Fri Nov 6)
+Most of us do this on nights and weekends, so **weekly work is due Monday night**, after the weekend. The exceptions are **group days**, when the whole Cycle meets: work for a group day is due when the day starts.
+
+**Open Lab Nights.** The Cycle votes on which weeknight(s) The Labs keeps open for working together. Pods can hold their weekly meeting there.
+
+## What we're collecting now (archaeology, due at the start of Sat Nov 7)
 
 Archaeology means finding out how this became a problem and what has already been tried. **Not just by us.** Anyone, anywhere, who has faced this problem counts. Three kinds of evidence:
 
@@ -79,16 +83,16 @@ One GitHub issue per piece of evidence. Title it `Interview:`, `Case:` or `Recor
 
 ## What's due when
 
-| Date | What | Who |
+| Due | What | Who |
 |---|---|---|
-| **Sat Nov 1** | One interview logged per builder in residence. The pod posts one issue titled "What surprised us": three things. | Builders |
-| **Fri Nov 6** | All archaeology in: at least two interviews and one case or record per builder, logged as issues. | Builders |
-| **Sat Nov 7** | The pod meets. Reads everything. Sorts the inner and outer circles. Names three to five themes. Writes the paradox into this README as *because* statements, then sets it aside. **Each builder leaves with one frame**, written as *If we treat this as if it were a problem of [theme], then…* | Pod |
+| **Mon Nov 2** | One interview logged per builder in residence. The pod posts one issue titled "What surprised us": three things. | Builders |
+| **Sat Nov 7, group day** | *Due at the start:* all archaeology logged, at least two interviews and one case or record per builder. *At the session:* the pod reads everything, sorts the inner and outer circles, names three to five themes, writes the paradox into this README as *because* statements, and sets it aside. **Each builder leaves with one frame**, written as *If we treat this as if it were a problem of [theme], then…* | Pod |
 | **Nov 8 to 13** | **Rapid prototype of each frame.** A branch in the region's OLOS fork, deployed to a Vercel preview, using the shared Supabase. Rough is fine. Put it in front of three real people and write down what they did. | Builders, with their agent |
-| **Fri Nov 13** | **Project proposal** submitted as an issue (format below). | Builders |
-| **Sat Nov 14** | Proposals pitched to the room. **The room votes.** Approved projects get a team; contributors choose where to go. | Everyone |
-| **Nov 21, 28, Dec 5** | A release each week to the preview link, used by at least three real people. | Project teams |
-| **Tue Dec 8** | Working, in real use, written up on the project branch, taught back to the room, pull request opened to OLOS. | Project teams |
+| **Sat Nov 14, group day** | *Due at the start:* each builder's **project proposal**, as an issue (format below). *At the session:* proposals pitched. **The room votes.** Approved projects get a team; contributors choose where to go. | Everyone |
+| **Mon Nov 23** | First release to the preview link, used by at least three real people. | Project teams |
+| **Mon Nov 30** | Second release, changed by what those people did. | Project teams |
+| **Mon Dec 7** | Final release in the region's instance. Written account on the project branch. January maintainer named. Pull request opened to OLOS. | Project teams |
+| **Tue Dec 8, group day** | Teach-back to the room. Ship. | Everyone |
 
 **Project proposal format.** One issue titled `Proposal:` and the project name. Answer in order:
 
